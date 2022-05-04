@@ -1,5 +1,5 @@
 #Consiste en contar las palabras de la respuesta del usuario a una pregunta
-x = input("¿En qué estas pensando?")
+x = input("¿En qué estas pensando? ")
 
 f = open("palabras.txt","w")
 f.write(x)
